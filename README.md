@@ -1,6 +1,6 @@
 ## About me
 
-Hi, my name is Darina Ionova!https://github.com/darinaio/darinaio/blob/main/README.md
+Hi, my name is Darina Ionova!
 
 ⚙️ 3rd year Computer Science student at NSU  
 🖥 Interested in systems programming and low-level development  
