@@ -2,9 +2,9 @@
 
 Hi, my name is Darina Ionova!
 
-⚙️ 3rd year Computer Science student at NSU  
+⚙️ 4rd year Computer Science student at NSU  
 🖥 Interested in systems programming and low-level development  
-🔬 Doing research and development in an NSU laboratory with Postgres Professional                                   🌍 Based in Novosibirsk, Russia    
+🌍 Based in Novosibirsk, Russia    
 ✒️ Telegram: @Frigres  
 ✉️ E-mail: darinaionovaser2005@gmail.com
 
